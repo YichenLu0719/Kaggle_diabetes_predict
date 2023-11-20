@@ -1,0 +1,2 @@
+# Kaggle_diabetes_predict
+使用公開資料網站的模型訓練糖尿病的預測分析
